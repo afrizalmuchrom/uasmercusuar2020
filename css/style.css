@@ -1,0 +1,21 @@
+.slider h3,
+.slider h5,
+.clients h3 {
+	text-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+
+.parallax-container {
+	height: 20%;
+}
+
+.background {
+background-image: url (about.jpg");
+}
+
+.clients img {
+	max-width: 150px;
+}
+
+section, footer {
+	padding: 20px 0;
+}
